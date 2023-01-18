@@ -1,0 +1,12 @@
+.linesLeftReminder {
+  font-size: medium;
+  color: black;
+  font-weight: bold;
+}
+
+.gameMessage {
+  font-size: medium;
+  color: red;
+  font-weight: 2px;
+}
+  
