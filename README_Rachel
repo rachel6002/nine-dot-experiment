@@ -1,0 +1,22 @@
+a) About how many hours did it take for you to implement this task?
+~12 hours
+
+b) What was your biggest challenge in implementing this task?
+The biggest challenge is firstly learning how to navigate around Empirica, which uses both
+an online interface to keep track of the experiment inputs and React to generate the content.
+It is also challenging to learn new functions such as painting a canvas. Lastly, I had trouble
+debugging because Empirica is a new app structure I have used, and I had a had time trying to 
+debug independent of the Empirica app, and had to start a new instance(test) every time I debug.
+
+c) What was a key design decision you made for this implementation?
+I tried to organize the "functions" in a way that resembles object-oriented-programming,
+with each function representing an object. This keeps the coding clean and makes object
+perform its functionality.
+
+d) (If unfinished) What do you plan to implement next?
+Unfortunately, while debugging, I updated the React version to a newer version and re-installed 
+some node modules. This made the whole app crash and is unable to start up. I wanted to use some
+newer functionalities of React, such as useRef, which is only available in the later React version(s).
+Hence, I will need to get the Empirica interface back up working. I also wanted to try debugging 
+independent of the Empirica app so that I could make sure the interface is actually working, prior to 
+deploying in Empirica. 
